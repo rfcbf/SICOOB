@@ -20,7 +20,7 @@ Tel: (61) 99368-4628
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad5.png" width="720" height="480" /> |
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad6.png" width="720" height="480" /> |
 
-
+Link para os videos: [Android](http://bit.ly/2slukgr "Android") / [iPhone](http://bit.ly/2DkrBWO "iPhone")
 
 
 ## Como foi feito?
