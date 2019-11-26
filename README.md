@@ -11,7 +11,7 @@ Tel: (61) 99368-4628
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/iphone3.png" width="480" height="720" /> | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/android3.png" width="480" height="720" /> |
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/iphone4.png" width="480" height="720" /> | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/android4.png" width="480" height="720" /> |
 
-<img src="http://bit.ly/2DkrBWO" width="480" height="720" />
+<img src="https://www.dropbox.com/s/fgknd5bc33xpp2g/iPhone720p.gif" width="480" height="720" />
 
 
 ## Como foi feito?
