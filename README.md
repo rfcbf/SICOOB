@@ -17,8 +17,8 @@ Tel: (61) 99368-4628
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad2.png" width="480" height="720" /> |
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad3.png" width="480" height="720" /> |
 | <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad4.png" width="480" height="720" /> |
-| <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad5.png" width="480" height="720" /> |
-| <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad6.png" width="480" height="720" /> |
+| <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad5.png" width="720" height="480" /> |
+| <img src="https://github.com/rfcbf/SICOOB/blob/master/Imagens/ipad6.png" width="720" height="480" /> |
 
 
 
