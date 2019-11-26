@@ -32,25 +32,25 @@ Instalação e configuração: [clique aqui](https://flutter.dev/docs/get-starte
 Configuração do editor: [clique aqui](https://flutter.dev/docs/get-started/editor?tab=vscode "clique aqui") - Vale informar que utilizei o VSCode.
 
 ## O que foi feito?
-* Exibir uma lista contendo filmes mais populares.  :fa-check:
-* Cada filme apresentará uma imagem e o título do filme;  :fa-check:
-* Ao clicar em um filme será exibida uma página com detalhes do filme;  :fa-check:
-  * Título  :fa-check:
-  * Imagem  :fa-check:
-  * Duração  :fa-check:
-  * Gênero  :fa-check:
-  * Sinopse  :fa-check:
+* Exibir uma lista contendo filmes mais populares.  **OK**:
+* Cada filme apresentará uma imagem e o título do filme;  **OK**:
+* Ao clicar em um filme será exibida uma página com detalhes do filme;  **OK**:
+  * Título  **OK**
+  * Imagem  **OK**
+  * Duração  **OK**
+  * Gênero  **OK**:
+  * Sinopse  **OK**:
   
 ### Pontos extras
 Não são obrigatórios, mas seria legal ter no seu projeto:
 
-* Animações  :fa-check:
+* Animações  **OK**:
 * Testes unitários
 * Testes automatizados
-* Utilização de *frameworks* de terceiros  :fa-check:
-* Telas adequadas para diversos tamanhos  :fa-check:
-* Utilização de banco de dados  :fa-check:
-* Use sua imaginação para aprimorar a experiência do usuário  :fa-check:
+* Utilização de *frameworks* de terceiros  **OK**:
+* Telas adequadas para diversos tamanhos  **OK**:
+* Utilização de banco de dados  **OK**:
+* Use sua imaginação para aprimorar a experiência do usuário  **OK**:
 
 ------------
 
